@@ -1,7 +1,6 @@
-# Aperture
+# SCP
+A theme for Plymouth resembling SCP.
 
-A theme for Plymouth resembling the Portal loading screen.
+Images from by [/u/ForlornCreature](https://www.reddit.com/r/SCP/comments/8l98ox/scp_logo_animation/)
 
-Images from [here](https://berqist.deviantart.com/art/Aperture-logo-load-screens-212545397).
-
-The theme's code is licensed under MIT. Images, the Portal trademarks etc. belong to Valve.
+The theme's code is licensed under MIT. Images, the scp trademarks etc. belong to that guy and the scp foundation.
