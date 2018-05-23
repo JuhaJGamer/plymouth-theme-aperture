@@ -423,8 +423,12 @@ fun fade_in (spr, zIndex, time, start, duration) {
 fun refresh_callback ()
   {
     time += 1;
-    sprites[time].SetOpacity(1);
-	sprites[time].SetZ(time);
+	frm = time/24
+	if(frm % 1)
+	{
+		sprites[time/24].SetOpacity(1);
+		sprites[time/24].SetZ(time);
+	}
   }
   
 Plymouth.SetRefreshFunction (refresh_callback);
